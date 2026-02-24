@@ -1,0 +1,64 @@
+ID Planejado,ID Otimizado,Detalhe do roteiro,Tipos de serviços,Quantidade de sacas,Tipo de Veículo,Pacotes estimados
+AM_3,A1_AM,S5_AM_Dedicada _CPG,,-,E-Van Média - Equipe única,182
+AM_4,A2_AM,S5_AM_Dedicada _CPG,,-,Van Elétrica JV,183
+AM_5,A3_AM,S5_AM_Dedicada _CPG,,0,Van Elétrica JV,185
+AM_1,A4_AM,SSP21_Super Nodo 2,hybrid,-,Vuc,445
+AM_2,A5_AM,SSP21_Super Nodo1,hybrid,-,Vuc,762
+AM_56,B10_AM,SSP21_Mooca,,0,E-Utilitário Last Mile,178
+AM_35,B11_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,188
+AM_7,B12_AM,S5_AM_Dedicada _CPG,,-,Vuc SDD,184
+AM_6,B13_AM,S5_AM_Dedicada _CPG,,-,Vuc SDD,191
+AM_51,B1_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,1
+AM_63,B2_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,61
+AM_52,B3_AM,SSP21_Mooca,,0,E-Utilitário Last Mile,62
+AM_10,B4_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,126
+AM_53,B5_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,134
+AM_37,B6_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,145
+AM_43,B7_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,170
+AM_11,B8_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,171
+AM_36,B9_AM,SSP21_Mooca,,0,E-Utilitário Last Mile,178
+AM_45,C1_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,164
+AM_57,C2_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,166
+AM_54,C3_AM,SSP21_Mooca,,0,E-Utilitário Last Mile,190
+AM_46,C4_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,193
+AM_44,C5_AM,SSP21_Mooca,,-,E-Utilitário Last Mile,204
+AM_26,C6_AM,SSP21_Mooca,hybrid,-,E-Utilitário Last Mile,791
+AM_55,D1_AM,SSP21_Mooca,hybrid,-,E-Utilitário Last Mile,217
+AM_40,D2_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,154
+AM_38,D3_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,155
+AM_48,D4_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,201
+AM_47,D5_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,203
+AM_12,D6_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,215
+AM_20,D7_AM,SSP21_Mooca,hybrid,-,Utilitário Elétrico Frota Fixa,240
+AM_22,D8_AM,SSP21_Mooca,hybrid,-,Utilitário Elétrico Frota Fixa,449
+AM_60,F10_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,190
+AM_61,F11_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,193
+AM_8,F1_AM,S5_AM_Dedicada _CPG,,0,Rental Utilitário com Ajudante,67
+AM_9,F2_AM,S5_AM_Dedicada _CPG,,-,Rental Utilitário com Ajudante,140
+AM_50,F3_AM,SSP21_Mooca,,-,Rental Utilitário com Ajudante,164
+AM_24,F4_AM,SSP21_Mooca,,0,Rental Utilitário com Ajudante,165
+AM_62,F5_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,85
+AM_39,F6_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,157
+AM_59,F7_AM,SSP21_Mooca,,0,Utilitário Elétrico Frota Fixa,167
+AM_42,F8_AM,SSP21_Mooca,,-,Utilitário Elétrico Frota Fixa,176
+AM_58,F9_AM,SSP21_Mooca,,0,Utilitário Elétrico Frota Fixa,190
+AM_41,G1_AM,SSP21_Mooca,hybrid,-,Utilitário Elétrico Frota Fixa,336
+AM_21,G2_AM,SSP21_Mooca,hybrid,-,Utilitário Elétrico Frota Fixa,353
+AM_18,G3_AM,SSP21_Mooca,,-,Veículo de Passeio,175
+AM_29,G4_AM,SSP21_Mooca,,0,Utilitários SDD,161
+AM_30,G5_AM,SSP21_Mooca,,-,Utilitários SDD,164
+AM_28,G6_AM,SSP21_Mooca,,0,Utilitário Localiza 2025,147
+AM_27,G7_AM,SSP21_Mooca,,0,Utilitário Localiza 2025,197
+AM_19,G8_AM,SSP21_Mooca,hybrid,-,Utilitário Localiza 2025,218
+AM_32,H10_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,193
+AM_15,H11_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,211
+AM_25,H12_AM,SSP21_Mooca,ME Extra,0,Utilitario Extra,31
+AM_49,H1_AM,SSP21_Mooca,,-,Utilitário Vamos 2025,103
+AM_17,H2_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,122
+AM_33,H3_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,151
+AM_13,H4_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,156
+AM_31,H5_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,159
+AM_16,H6_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,177
+AM_34,H7_AM,SSP21_Mooca,,0,Utilitário Vamos 2025,179
+AM_23,H8_AM,SSP21_Mooca,,-,Utilitário Vamos 2025,180
+AM_14,H9_AM,SSP21_Mooca,,-,Utilitário Vamos 2025,187
